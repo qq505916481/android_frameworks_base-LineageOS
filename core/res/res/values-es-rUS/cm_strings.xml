@@ -73,7 +73,7 @@
   <!-- ADB over USB and network notification -->
   <string name="adb_both_active_notification_title">ADB sobre USB y red activado</string>
   <!-- ADB notification message-->
-  <string name="adb_active_generic_notification_message">Toca para desactivar la depuración.</string>
+  <string name="adb_active_generic_notification_message">Pulsa para desactivar la depuración.</string>
   <!-- ADB custom tile -->
   <string name="adb_active_custom_tile">ADB - <xliff:g id="adb_type" example="USB">%1$s</xliff:g></string>
   <string name="adb_active_custom_tile_both">USB y red</string>
@@ -117,7 +117,7 @@
   <string name="app_ops_modify_call_log">actualizar el registro de llamadas</string>
   <string name="app_ops_modify_clipboard">modificar el portapapeles</string>
   <string name="app_ops_modify_contacts">actualizar tus contactos</string>
-  <string name="app_ops_modify_settings">actualizar configuración del sistema</string>
+  <string name="app_ops_modify_settings">actualizar ajustes del sistema</string>
   <string name="app_ops_mute_unmute_microphone">silenciar / activar el micrófono</string>
   <string name="app_ops_play_audio">reproducir el audio</string>
   <string name="app_ops_post_notification">publicar una notificación</string>
