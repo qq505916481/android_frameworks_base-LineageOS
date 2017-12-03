@@ -81,7 +81,7 @@
   <string name="screen_pinning_description_no_navbar">To jo ohrani prikazano, dokler je ne odpnete. Tapnite in pridržite gumb Nazaj, da jo odpnete.</string>
   <string name="quick_settings_custom_tile_detail_title">Ploščica po meri</string>
   <string name="quick_settings_remove">Odstrani ploščico</string>
-  <string name="quick_settings_network_adb_label">ADB preko omrežja</string>
+  <string name="quick_settings_network_adb_label">ADB prek omrežja</string>
   <string name="quick_settings_compass_label">Kompas</string>
   <string name="quick_settings_nfc_label">NFC</string>
   <string name="quick_settings_profiles">Sistemski profili</string>
@@ -187,7 +187,7 @@
   <!-- QuickSettings: Location (On, low-power) [CHAR LIMIT=NONE] -->
   <string name="quick_settings_location_battery_saving_label">Varčevanje z energijo</string>
   <!-- QuickSettings: Location (On, gps-only) [CHAR LIMIT=NONE] -->
-  <string name="quick_settings_location_gps_only_label">Samo naprava</string>
+  <string name="quick_settings_location_gps_only_label">Samo v napravi</string>
   <!-- QuickSettings: Location (On, high-accuracy) [CHAR LIMIT=NONE] -->
   <string name="quick_settings_location_high_accuracy_label">Visoka natančnost</string>
   <!-- Announcement made when the location tile changes to battery saving (not shown on the screen). [CHAR LIMIT=NONE] -->
